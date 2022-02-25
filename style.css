@@ -1,0 +1,70 @@
+#navbar {
+    background-color:darkorchid;
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    }
+
+#navbar a {
+    color: white;
+    text-decoration: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif 
+}
+
+#navbar a:hover {
+    color: goldenrod;
+}
+
+/* This is how to add a comment */
+
+/* h1 {
+    color:crimson;
+    font-size: 30px;
+}
+
+/* This is how to add a background colour to your Webpage */
+
+body {
+    background-color:chocolate;
+}
+
+* h2 {
+    color:darkblue;
+}
+
+/* This is how to target an element within our HTML */
+
+/* body {
+    background-image: url("images/background.jpeg")
+} */
+
+.welcome {
+    background-color: brown;
+}
+.testing {
+    background-color:darkslategrey;
+}
+.large {
+    font-size: 30px;    
+}
+
+.centre {
+    text-align: center;
+}
+
+.smallimage {
+    width: 50%;
+}
+
+/* .blackbackground {
+     (0,0,0,0.3);
+}  */
+
+
+p {
+    font-family: fantasy;
+    font-size: 30px;
+    font-style:normal;
+    font-weight: 700;   
+}
